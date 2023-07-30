@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "io.h": "c",
+        "lcd_config.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Enabled",
+    "C_Cpp.dimInactiveRegions": false
+}
